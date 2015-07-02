@@ -12,7 +12,7 @@ This is the codebase for Research Team's projects. Here are a list of our major 
 
 #### Algorithms and Services:
 
-- [Image and Video understanding - tagging]
+- [Image and Video understanding - tagging](#image-and-video-understanding---tagging)
 - [Image and Video understanding - model training]
 - [Song recognition]
 - [Image and Video quality improvements]
