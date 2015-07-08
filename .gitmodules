@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = ./submodule
+[submodule "Research"]
+	path = Research
+	url = git@github.com:Snapchat/Research.git
